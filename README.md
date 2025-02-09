@@ -1,7 +1,7 @@
 <a href="https://www.github.com/SharipovHuseyn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SharipovHuseyn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <div align="center">
-  <img height="300" width="600" src="https://i.gifer.com/NvL.gif"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
