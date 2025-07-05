@@ -3,10 +3,10 @@
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 ###
-<h1 align="center">Привет👋 Меня зовут Хусейн!</h1>
+<h1 align="center">Hello👋 My name is Huseyn!</h1>
 
 
-### Навыки
+### Skills
 
 <p align="center">
   <div align="center">
