@@ -7,7 +7,7 @@
 
 
 ### Skills
-
+<h3 align="center">📚 Skills</h3>
 <p align="center">
   <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,pycharm,php,figma" /><br>
@@ -24,7 +24,7 @@
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharipovHuseyn&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 ###
-
+<h3 align="center">💻 LeetCode</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/huseynsharipov08?theme=dark&font=Inria%20Sans&ext=heatmap)
 
