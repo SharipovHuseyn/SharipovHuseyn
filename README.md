@@ -6,7 +6,7 @@
 <h1 align="center">Hello👋 My name is Huseyn!</h1>
 
 
-### Skills
+###
 <h3 align="center">📚 Skills</h3>
 <p align="center">
   <div align="center">
